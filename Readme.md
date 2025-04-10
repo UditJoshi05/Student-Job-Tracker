@@ -55,5 +55,3 @@ A modern web application designed to help students efficiently track and manage 
 - Mobile Optimized
 
 ---
-
-## Project Structure
